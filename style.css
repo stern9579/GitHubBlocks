@@ -1,0 +1,52 @@
+.container{
+    display: block;
+    background-color: rgba(197, 197, 197, 0.986);
+    width: 80%;
+    margin: 5%;
+    padding: 3%;
+}
+
+.top-block{
+    background-color: forestgreen;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2% 5%;
+    margin: 3%;
+}
+
+.middle-block{
+    background-color: #7527cf;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2% 5%;
+    margin: 3%;
+}
+
+.bottom-block{
+    background-color: #63a5a5;
+    display: flex;
+    justify-content: space-around;
+    padding: 2% 5%;
+    margin: 3%;
+}
+
+img.catpictopblock{
+    width: 150px;
+    height: 150px;
+}
+
+img.catpic-middleblock{
+    width: 150px;
+    height: 150px;
+}
+
+img.catpic-bottomblock{
+    width: 150px;
+    height: 150px;
+}
+
+.title {
+    text-align: center;
+    font-size: 400%;
+}
